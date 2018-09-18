@@ -1,4 +1,4 @@
-# Emergancy-PriorityQueue
+# Emergancy-PriorityQueue.
 
 Add users name and priority 
 
